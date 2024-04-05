@@ -1,19 +1,20 @@
 ![](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
 <h1 align="center">Hi 👋, I'm ZAIN-UL-ABEDIN</h1>
-<h3 align="center">Empowering Innovation: Uniting Versatile Technologies for Limitless Solutions.</h3>
+<h3 align="center">Crafting the Future of Web & Mobile: Where Code Meets Creativity.
+</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Advanced Diploma in Software Engineering** at Aptech
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZainHanif29](https://github.com/ZainHanif29)
 
-- 💬 Ask me about **Asp.Net core web API , Flutter**
+- 💬 Ask me about **MERN Stack , Flutter , C# , SQL , Mongodb**
 
 - 📫 How to reach me **zainhanif2902@gmail.com**
 
 - 📄 Know about my experiences [https://mega.nz/file/5BlSzSLL#54j3PHJAQoFdlwp_wBWo6MOmeizihWmDV-uUwROxp1I](https://mega.nz/file/5BlSzSLL#54j3PHJAQoFdlwp_wBWo6MOmeizihWmDV-uUwROxp1I)
 
-- ⚡ Fun fact **Programming**
+- ⚡ Fun fact **Programming,Book Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
