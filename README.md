@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
+
 <h1 align="center">Hi 👋, I'm ZAIN-UL-ABEDIN</h1>
 <h3 align="center">Empowering Innovation: Uniting Versatile Technologies for Limitless Solutions.</h3>
 
