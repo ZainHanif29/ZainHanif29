@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **zainhanif2902@gmail.com**
 
-- 📄 Know about my experiences [https://mega.nz/file/5BlSzSLL#54j3PHJAQoFdlwp_wBWo6MOmeizihWmDV-uUwROxp1I](https://mega.nz/file/5BlSzSLL#54j3PHJAQoFdlwp_wBWo6MOmeizihWmDV-uUwROxp1I)
+- 📄 Know about my experiences https://mega.nz/file/AdNBGByT#ZDurTiGFtv4ZLBjN78kE4i8wyuXSKbGQykqeKwcBO1M
 
 - ⚡ Fun fact **"I love coding and reading books for fun!"**
 
