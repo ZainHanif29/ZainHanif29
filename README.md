@@ -1,18 +1,16 @@
 ![](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
 <h1 align="center">Hi 👋, I'm ZAIN-UL-ABEDIN</h1>
-<h3 align="center">Welcome to my GitHub profile! I love creating unique solutions where web and mobile technologies converge, blending code with creativity.
+<h3 align="center">Welcome to my GitHub profile!
 </h3>
 
 - 🌱 I’m currently learning **Advanced Diploma in Software Engineering** at Aptech
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZainHanif29](https://github.com/ZainHanif29)
 
-- 💬 Ask me about **C# , Dart , Javascript ,Flutter , MERN Stack , Mongodb , SQL **
+- 💬 Ask me about **  Javascript ,Flutter , MERN Stack  , SQL **
 
 - 📫 How to reach me **zainhanif2902@gmail.com**
-
-- 📄 Know about my experiences https://mega.nz/file/AdNBGByT#ZDurTiGFtv4ZLBjN78kE4i8wyuXSKbGQykqeKwcBO1M
 
 - ⚡ Fun fact **"I love coding and reading books for fun!"**
 
